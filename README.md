@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hi There! 👋
-
 - 👀 I'm Yetunde Ige
 - 📌 A Solidity Smart Contract Developer
 - 💬 I am enthusiastic about the "Decentralized" Web
